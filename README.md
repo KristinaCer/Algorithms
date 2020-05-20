@@ -1,2 +1,2 @@
 # Algorithms
- This repository is dedicated for practising algorithm implementation. 
+ This repository is dedicated to practising algorithm implementation. 
